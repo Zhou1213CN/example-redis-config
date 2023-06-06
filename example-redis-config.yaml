@@ -4,5 +4,5 @@ metadata:
   name: example-redis-config
 data:
   redis-config: |
-    maxmemory 100mb
+    maxmemory 50mb
     maxmemory-policy allkeys-lru
